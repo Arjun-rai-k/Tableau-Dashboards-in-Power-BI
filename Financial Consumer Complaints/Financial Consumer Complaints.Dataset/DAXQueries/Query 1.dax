@@ -1,5 +1,0 @@
-EVALUATE 
-CALCULATETABLE( 
-	'Complaint Detail',
-	'Complaint Detail'[Company response to consumer] <> "Closed with monetary relief"
-	)
